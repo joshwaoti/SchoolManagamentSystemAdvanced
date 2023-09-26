@@ -36,3 +36,22 @@ INFO 2023-09-26 13:05:43,790 /Volumes/Back up/torrent/management systems/Django-
 INFO 2023-09-26 13:05:45,437 Watching for file changes with StatReloader
 INFO 2023-09-26 13:05:50,186 /Volumes/Back up/torrent/management systems/Django-School-Management-System/school_app/settings.py changed, reloading.
 INFO 2023-09-26 13:05:50,785 Watching for file changes with StatReloader
+INFO 2023-09-26 13:08:12,963 Watching for file changes with StatReloader
+INFO 2023-09-26 13:11:11,989 Watching for file changes with StatReloader
+INFO 2023-09-26 13:12:00,733 "GET /accounts/login/?next=/ HTTP/1.1" 200 4016
+INFO 2023-09-26 13:12:00,955 "GET /static/dist/img/login.jpg HTTP/1.1" 304 0
+INFO 2023-09-26 13:12:18,816 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-09-26 13:12:23,851 "GET / HTTP/1.1" 200 9290
+INFO 2023-09-26 13:12:24,492 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2023-09-26 13:12:42,183 "GET /student/list HTTP/1.1" 200 9946
+INFO 2023-09-26 13:12:52,971 "GET /staff/list/ HTTP/1.1" 200 9687
+INFO 2023-09-26 13:13:01,142 "GET /finance/list/ HTTP/1.1" 200 9925
+INFO 2023-09-26 13:13:13,923 "GET /result/view/all HTTP/1.1" 200 8834
+INFO 2023-09-26 13:13:32,122 "GET /current-session/ HTTP/1.1" 200 10518
+INFO 2023-09-26 13:13:50,188 "GET /session/create/?next=current-session/ HTTP/1.1" 200 10174
+INFO 2023-09-26 13:14:05,989 "POST /session/create/?next=current-session/ HTTP/1.1" 302 0
+INFO 2023-09-26 13:14:11,339 "GET /session/list/ HTTP/1.1" 200 12086
+INFO 2023-09-26 13:14:22,326 "GET /session/1/delete/ HTTP/1.1" 200 9989
+INFO 2023-09-26 13:14:31,340 "POST /session/1/delete/ HTTP/1.1" 302 0
+INFO 2023-09-26 13:14:36,665 "GET /session/list/ HTTP/1.1" 200 11781
+INFO 2023-09-26 13:15:21,251 "GET / HTTP/1.1" 200 9290
