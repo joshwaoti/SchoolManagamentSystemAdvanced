@@ -36,7 +36,7 @@
     <div class="container-login100">
         <div class="wrap-login100">
             <div class="login100-pic js-tilt" style="width: 400px;">
-                <img src="{% static 'dist/img/login.png' %}">
+                <img src="{% static 'dist/img/login.jpg' %}">
             </div>
 
             <form class="login100-form validate-form" method="post" action="{% url 'login' %}">
@@ -55,7 +55,7 @@
                       please login with an account that has access.</p>
                     {% else %}
                     </span>
-                    <p>Please Login to see this page.</p>
+                    <p>Please Login to see this page. username: admin password: admin123</p>
                     {% endif %}
                     {% endif %}
                 </span>
