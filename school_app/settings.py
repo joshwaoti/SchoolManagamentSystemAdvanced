@@ -75,12 +75,12 @@ WSGI_APPLICATION = "school_app.wsgi.application"
 
 DATABASES = {
     "default": {
-        "ENGINE": "django.db.backends.postgresql",
-        "NAME": 'railway',
-        "USER": 'postgres',
-        "PASSWORD" : 'IYwSDa4cRfJwpkNsFxBG',
-        "HOST" : 'containers-us-west-63.railway.app',
-        "PORT" : '5513'
+        "ENGINE": "django.db.backends.mysql",
+        "NAME": 'sql3649473',
+        "USER": 'sql3649473',
+        "PASSWORD" : 'kymcs5SQMq',
+        "HOST" : 'sql3.freemysqlhosting.net',
+        "PORT" : '3306'
     }
 }
 
